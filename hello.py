@@ -7,3 +7,5 @@ name = input("enter your name: ")
 
 for i in range(5):
     print("hello",name)
+
+print("stop the class")
